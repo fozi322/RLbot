@@ -1,3 +1,8 @@
+# Discord 
+#### If you need any help join the discord and mention me in the chat.
+### https://discord.gg/YvXqXtcC
+
+
 # Note
 You can uncompile `.pyc` files using [PYLingual](https://pylingual.io). For a tutorial on how to do this, check out [this YouTube video](https://www.youtube.com/watch?v=lx91kgjHYwc) by PyLingual.
 
